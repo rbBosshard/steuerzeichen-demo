@@ -1,0 +1,11 @@
+Steuerzeichen-Demo (ohne NUL)
+TAB:	|<-- Tabulator
+BEL (7):<-
+BS (8):<-
+VT (11):<-
+FF (12):<-
+ESC (27):[31m<-
+SUB (26):<-
+FS/GS/RS/US (28-31):<-
+DEL (127):<-
+Unicode: NBSP: <- ZWSP:​<- LS: <-
